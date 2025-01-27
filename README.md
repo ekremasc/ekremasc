@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78a21d37-52b0-49d3-94a4-b99c2162041a/deploy-status)](https://app.netlify.com/sites/artificatr/deploys)
 <!--
 **ekremasc/ekremasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
